@@ -5,7 +5,7 @@
 #include <md5.h>
 #include <ctype.h>
 
-/* A REPRENDRE */
+/* UN EXEMPLE DE THREAD  */
 
 void *threadFunction(void *args)
 {
