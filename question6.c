@@ -31,3 +31,4 @@ int main()
     printf("Hello World from main function \n");
     return 0;
 }
+/* REPONSE A LA QUESTION 6 */
