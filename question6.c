@@ -5,6 +5,8 @@
 #include <md5.h>
 #include <ctype.h>
 
+/* A REPRENDRE */
+
 void *threadFunction(void *args)
 {
     printf("Hello World from thread \n");
